@@ -38,6 +38,6 @@ IOIO OTG board provides I/O interface for Android via Bluetooth.
 ### Acknowledgements
 
 
-![MODBUS Application Protocol Specification v1.1.b](http://www.modbus.org/docs/Modbus_Application_Protocol_V1_1b.pdf)
+[MODBUS Application Protocol Specification v1.1.b](http://www.modbus.org/docs/Modbus_Application_Protocol_V1_1b.pdf)
 
-![IOIO OTG Project](https://github.com/ytai/ioio)
+[IOIO OTG Project](https://github.com/ytai/ioio)
